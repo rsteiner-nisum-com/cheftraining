@@ -1,0 +1,7 @@
+DEPENDENCIES
+  webServer
+    path: .
+    metadata: true
+
+GRAPH
+  webServer (0.1.0)
