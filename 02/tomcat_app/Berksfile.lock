@@ -1,0 +1,7 @@
+DEPENDENCIES
+  tomcat_app
+    path: .
+    metadata: true
+
+GRAPH
+  tomcat_app (0.1.0)
