@@ -6,7 +6,7 @@ provisioner:
   name: chef_zero
 
 platforms:
-  - name: centos-6.5
+  - name: centos
     driver_config:
       require_chef_omnibus: 11.12.8
       network:
